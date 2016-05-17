@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Hodaka Pottery]]></title>
         <description><![CDATA[Hodaka Pottery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hodaka-pottery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 14:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 May 2016 14:55:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hodaka-pottery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Light Phone: Designed for Disconnecting]]></title>
+            <description><![CDATA[<article><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d0f5ce299ad3d7f079d449896c88dcc2ec48b8.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/tech/the-light-phone-kickstarter-minimalist-phone-for-disconnecting</link>
+            <guid isPermaLink="false">e198f7eb-4d23-44bb-b9e3-c70c5aa4d7a3</guid>
+            <pubDate>Tue, 17 May 2016 14:55:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So Now We Know How C-3PO Got His Red Arm In The Force Awakens]]></title>
+            <description><![CDATA[<article><h1>So Now We Know How C-3PO Got His Red Arm In The Force Awakens</h1><p>Ladies and gentlemen, our global nightmare is over. After months-nearly five of them in fact-of waiting, Marvel's one-shot comic, revealing just why C-3PO has a red arm for most of The Force Awakens, is finally here. As bizarre as it may sound at first, the final product isn't half bad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff7a99fdf22b973fd7d5ffe88bda91f4fec8e32d.png"></article>]]></description>
+            <link>http://io9.gizmodo.com/so-now-we-know-how-c-3po-got-his-red-arm-in-the-force-a-1770741572</link>
+            <guid isPermaLink="false">86517579-a411-43f2-8b61-23cef3fc2f2a</guid>
+            <pubDate>Tue, 17 May 2016 14:55:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The First-Ever 360-Degree Video Surgery Is Happening On Thursday]]></title>
             <description><![CDATA[<article><h1>The First-Ever 360-Degree Video Surgery Is Happening On Thursday</h1><p>Over the course of two hours or so on Thursday, Dr. Shafi Ahmed will perform a more-or-less routine surgery on a man in his seventies with colon cancer. The 47-year-old cancer specialist will make a small slice on the patient's belly, remove the tumor from his bowel, and stitch the tissue back together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2236279d263b94ba2ebd6fadb2339821d0b2915.jpg"></article>]]></description>

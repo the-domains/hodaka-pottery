@@ -1,14 +1,14 @@
-layout_spectrum: 0.13419962814077735
-typography_spectrum: 0.5876886155456305
+layout_spectrum: 0.5087125776335597
+typography_spectrum: 0.1439841352403164
 color:
-  brandStrength: 0.8532703844830394
-  lightness: 0.37142350268550217
-  saturation: 0.8324959792662412
-  rhythmicContrast: 0.8790983457583934
+  brandStrength: 0.0019723898731172085
+  lightness: 0.7477561547420919
+  saturation: 0.783386163180694
+  rhythmicContrast: 0.3843308847863227
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Hodaka Pottery
